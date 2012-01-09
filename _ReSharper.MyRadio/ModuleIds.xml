@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="84E6D1FC-8456-452A-B13D-8B8BADA7A475" ModuleId="MyRadio" />
+  <Module PersistentId="F6FEF7FE-912F-4342-A62B-7B3906DDF636" ModuleId="MyRadio.Tests" />
+</Modules>

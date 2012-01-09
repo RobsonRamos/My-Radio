@@ -1,0 +1,166 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:IRepository.cs" caret="18" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:UnitTest1.cs" caret="28" fromTop="1" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Media.cs" caret="436" fromTop="19" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:RadioContext.cs" caret="0" fromTop="0" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="505" fromTop="21" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:Repository.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Playlist.cs" caret="166" fromTop="7" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1200" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Playlist.cs" caret="149" fromTop="29" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Playlist.cs" caret="0" fromTop="0" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="0" fromTop="0" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="209" fromTop="6" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="570" fromTop="14" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="520" fromTop="18" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:IRepository.cs" caret="206" fromTop="12" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:RadioContext.cs" caret="247" fromTop="12" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:Repository.cs" caret="151" fromTop="11" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:Repository.cs" caret="309" fromTop="20" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:Repository.cs" caret="403" fromTop="20" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:RadioContext.cs" caret="219" fromTop="13" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:RadioContext.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:IRepository.cs" caret="18" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Repositories/f:Repository.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Media.cs" caret="421" fromTop="16" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Media.cs" caret="294" fromTop="12" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="331" fromTop="15" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:PlaylistTests.cs" caret="505" fromTop="21" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Playlist.cs" caret="166" fromTop="7" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1200" fromTop="38" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1200" fromTop="26" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1210" fromTop="19" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1210" fromTop="20" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1012" fromTop="16" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1012" fromTop="13" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1001" fromTop="10" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1200" fromTop="38" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1200" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="415" />
+      <Item value="string" priority="95" />
+      <Item value="Media`0" priority="159" />
+      <Item value="private" priority="63" />
+      <Item value="this" priority="95" />
+      <Item value="url" priority="31" />
+      <Item value="IList" priority="31" />
+      <Item value="void" priority="223" />
+      <Item value="Playlist`0" priority="127" />
+      <Item value="medias" priority="191" />
+      <Item value="new" priority="223" />
+      <Item value="List&lt;Media&gt;" priority="28" />
+      <Item value="var" priority="31" />
+      <Item value="Media" priority="57" />
+      <Item value="mediaAdress" priority="31" />
+      <Item value="media" priority="95" />
+      <Item value="IEnumerable" priority="31" />
+      <Item value="Queue" priority="31" />
+      <Item value="int" priority="286" />
+      <Item value="m" priority="63" />
+      <Item value="internal" priority="32" />
+      <Item value="set" priority="98" />
+      <Item value="Url" priority="31" />
+      <Item value="value" priority="31" />
+      <Item value="mediaId" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="null" priority="63" />
+      <Item value="TestClass" priority="26" />
+      <Item value="playlist" priority="32" />
+      <Item value="Playlist" priority="28" />
+      <Item value="Moq" priority="31" />
+      <Item value="Mock&lt;Media&gt;" priority="28" />
+      <Item value="TestInitialize" priority="31" />
+      <Item value="mockMedias" priority="63" />
+      <Item value="_AppDomain`0" priority="31" />
+      <Item value="IQueryable" priority="63" />
+      <Item value="get" priority="32" />
+      <Item value="Playlists" priority="32" />
+      <Item value="partial" priority="31" />
+      <Item value="IRepository`0" priority="31" />
+      <Item value="override" priority="31" />
+      <Item value="modelBuilder" priority="31" />
+      <Item value="DbSet" priority="31" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="Set`0" priority="31" />
+      <Item value="RadioContext`0" priority="31" />
+      <Item value="context" priority="128" />
+      <Item value="RadioContext" priority="28" />
+      <Item value="return" priority="31" />
+      <Item value="ErrorMessage" priority="31" />
+      <Item value="repository" priority="63" />
+      <Item value="Mock&lt;Repository&gt;" priority="28" />
+      <Item value="r" priority="31" />
+      <Item value="Delegate`0" priority="90" />
+      <Item value="Func" priority="95" />
+      <Item value="Fibonacci`0" priority="32" />
+      <Item value="Time`2" priority="159" />
+      <Item value="fibonacci" priority="59" />
+      <Item value="XmlSiteMapProvider`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRadio.Models.Media">
+      <Item value="url" priority="53" />
+      <Item value="MediaId" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Remove`0" priority="54" />
+      <Item value="Clear`0" priority="27" />
+      <Item value="Where`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="GetEnumerator`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRadio.Repositories.RadioContext">
+      <Item value="Configuration" priority="26" />
+      <Item value="Medias" priority="50" />
+      <Item value="Playlists" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbModelBuilder">
+      <Item value="Configurations" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.ConfigurationRegistrar">
+      <Item value="Add`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRadio.Repositories.Repository">
+      <Item value="Medias" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Delegate">
+      <Item value="Combine`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

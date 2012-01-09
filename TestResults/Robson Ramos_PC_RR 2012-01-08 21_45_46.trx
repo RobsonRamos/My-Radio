@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3a387a89-c91f-4171-8081-d95d3eb47ff0" name="Robson Ramos@PC_RR 2012-01-08 21:45:46" runUser="PC_RR\Robson Ramos" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="30706d1a-0de7-40af-96a0-83839ae2b6e6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Robson Ramos_PC_RR 2012-01-08 21_45_46">
+      <DeploymentItem filename="C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\packages\Ninject.2.2.1.4\lib\net40-Full\Ninject.dll" />
+      <DeploymentItem filename="C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio\bin\MyRadio.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-08T21:45:46.8759802-02:00" queuing="2012-01-08T21:45:47.8670369-02:00" start="2012-01-08T21:45:47.9300405-02:00" finish="2012-01-08T21:45:47.9430412-02:00" />
+  <ResultSummary outcome="NotRunnable">
+    <Counters total="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="1" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index_Should_Contain_All_Medias" storage="c:\users\robson ramos\documents\visual studio 2010\projects\myradio\myradio.tests\bin\debug\myradio.tests.dll" id="ea151dd3-5c0b-667d-7f56-22bc26e82cbf">
+      <Execution id="359939c4-c2a0-44e8-b222-525691860b1e" />
+      <TestMethod codeBase="C:/Users/Robson Ramos/documents/visual studio 2010/Projects/MyRadio/MyRadio.Tests/bin/Debug/MyRadio.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyRadio.Tests.RadioControllerTests, MyRadio.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index_Should_Contain_All_Medias" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ea151dd3-5c0b-667d-7f56-22bc26e82cbf" executionId="359939c4-c2a0-44e8-b222-525691860b1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="359939c4-c2a0-44e8-b222-525691860b1e" testId="ea151dd3-5c0b-667d-7f56-22bc26e82cbf" testName="Index_Should_Contain_All_Medias" computerName="PC_RR" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="359939c4-c2a0-44e8-b222-525691860b1e">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA004: Illegal use of attribute on MyRadio.Tests.RadioControllerTests.Index_Should_Contain_All_Medias. The TestMethodAttribute can be defined only inside a class marked with the TestClass attribute.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

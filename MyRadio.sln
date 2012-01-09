@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRadio", "MyRadio\MyRadio.csproj", "{84E6D1FC-8456-452A-B13D-8B8BADA7A475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRadio.Tests", "MyRadio.Tests\MyRadio.Tests.csproj", "{F6FEF7FE-912F-4342-A62B-7B3906DDF636}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{500B4C7E-D8D8-447F-9ACB-511963FC5B77}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		MyRadio.vsmdi = MyRadio.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MyRadio.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E6D1FC-8456-452A-B13D-8B8BADA7A475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E6D1FC-8456-452A-B13D-8B8BADA7A475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E6D1FC-8456-452A-B13D-8B8BADA7A475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E6D1FC-8456-452A-B13D-8B8BADA7A475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FEF7FE-912F-4342-A62B-7B3906DDF636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FEF7FE-912F-4342-A62B-7B3906DDF636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FEF7FE-912F-4342-A62B-7B3906DDF636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FEF7FE-912F-4342-A62B-7B3906DDF636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
