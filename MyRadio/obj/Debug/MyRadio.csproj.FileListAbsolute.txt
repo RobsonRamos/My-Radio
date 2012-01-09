@@ -8,3 +8,13 @@ C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio\bin\
 C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio\obj\Debug\MyRadio.dll
 C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio\obj\Debug\MyRadio.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\MyRadio.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\MyRadio.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\EntityFramework.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\Ninject.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\EntityFramework.xml
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\Ninject.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\bin\Ninject.xml
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\obj\Debug\MyRadio.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio\obj\Debug\MyRadio.pdb

@@ -4,8 +4,8 @@ using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using MyRadio.Controllers;
+using MyRadio.Domain.Repositories;
 using MyRadio.Models;
-using MyRadio.Repositories;
 
 
 namespace MyRadio.Tests
@@ -69,6 +69,7 @@ namespace MyRadio.Tests
         [TestMethod]
         public void Cannot_Save_Invalid_Media()
         {
+            target.ModelState.AddModelError("Error", "Url is Required.");
             target.Edit(new Media());
 
             mockRepository.Verify(m => m.SaveMedia(It.IsAny<Media>()), Times.Never());
@@ -77,13 +78,16 @@ namespace MyRadio.Tests
         [TestMethod]
         public void Invalid_Media_Should_Return_Edit_View()
         {
-            var result = target.Edit(new Media());
 
-            Assert.IsNotInstanceOfType(result, typeof(ViewResult));
+            var media = new Media();
+            target.ModelState.AddModelError("Error", "Url is Required.");
+            var result = target.Edit(media);            
+
+            Assert.IsNotInstanceOfType(result, typeof(RedirectToRouteResult));
         }
 
         [TestMethod]
-        public void Cannot_Save_Valid_Media()
+        public void Can_Save_Valid_Media()
         {
             target.Edit(new Media { MediaId = 10, Url = "Url" });
 
@@ -91,7 +95,7 @@ namespace MyRadio.Tests
         }
 
         [TestMethod]
-        public void Invalid_Media_Should_Return_Index_View()
+        public void Valid_Media_Should_Return_Index_View()
         {
             var result = target.Edit(new Media { MediaId = 10, Url = "Url" });
             Assert.IsInstanceOfType(result, typeof(RedirectToRouteResult));

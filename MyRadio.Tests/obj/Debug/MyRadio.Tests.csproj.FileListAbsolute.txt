@@ -13,3 +13,18 @@ C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio.Test
 C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio.Tests\obj\Debug\MyRadio.Tests.dll
 C:\Users\Robson Ramos\documents\visual studio 2010\Projects\MyRadio\MyRadio.Tests\obj\Debug\MyRadio.Tests.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\MyRadio.Tests.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\MyRadio.Tests.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\Moq.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\MyRadio.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\Ninject.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\EntityFramework.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\MyRadio.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\Moq.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\Moq.xml
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\Ninject.pdb
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\Ninject.xml
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\bin\Debug\EntityFramework.xml
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\obj\Debug\MyRadio.Tests.dll
+C:\Users\robsonr\Desktop\MyRadio\My-Radio\MyRadio.Tests\obj\Debug\MyRadio.Tests.pdb

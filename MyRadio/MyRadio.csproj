@@ -73,13 +73,14 @@
     <Compile Include="Models\Media.cs" />
     <Compile Include="Models\Playlist.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\IMediaRepository.cs" />
-    <Compile Include="Repositories\IPlaylistRepository.cs" />
-    <Compile Include="Repositories\MediaRepository.cs" />
-    <Compile Include="Repositories\RadioContext.cs" />
-    <Compile Include="Repositories\PlaylistRepository.cs" />
+    <Compile Include="Domain\Repositories\IMediaRepository.cs" />
+    <Compile Include="Domain\Repositories\IPlaylistRepository.cs" />
+    <Compile Include="Domain\Repositories\MediaRepository.cs" />
+    <Compile Include="Domain\Repositories\RadioContext.cs" />
+    <Compile Include="Domain\Repositories\PlaylistRepository.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Reset.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\jquery-1.5.1.min.js" />
@@ -112,14 +113,9 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Domain\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Radio\Index.cshtml" />

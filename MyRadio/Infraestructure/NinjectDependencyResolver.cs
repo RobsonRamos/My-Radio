@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web.Mvc;
-using MyRadio.Repositories;
+using MyRadio.Domain.Repositories;
 using Ninject;
 
 namespace MyRadio.Infraestructure
@@ -19,6 +19,7 @@ namespace MyRadio.Infraestructure
         public void CreateBindings()
         {
             kernel.Bind<IPlaylistRepository>().To<PlaylistRepository>();
+            kernel.Bind<IMediaRepository>().To<MediaRepository>();
         }
 
 
