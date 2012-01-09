@@ -1,58 +1,87 @@
 body
 {
-  background-color: #FFFFFF;
-  font: 13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
-  font-size: .85em;
-  font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
-  color: #232323;
+    background-color: #FFFFFF;
+    font: 13px/1.5 'Helvetica Neue' ,Arial, 'Liberation Sans' ,FreeSans,sans-serif;
+    font-size: .85em;
+    font-family: "Trebuchet MS" , Verdana, Helvetica, Sans-Serif;
+    color: #D8DFEA;
 }
 
 a
 {
-  color: #207FCA;
+    color: #207FCA;
 }
 
 a:focus
 {
-  outline: 1px dotted;
+    outline: 1px dotted;
 }
 
 hr
 {
-  border: 0 #D9D9D9 solid;
-  border-top-width: 1px;
-  clear: both;
-  height: 0;
+    border: 0 #D9D9D9 solid;
+    border-top-width: 1px;
+    clear: both;
+    height: 0;
 }
 
-h1{ font-size: 25px }
-h2{font-size: 24px}
-h3{font-size: 17px}
-h4{font-size: 19px}
-h5{font-size: 17px}
-h6{font-size: 15px}
+h1
+{
+    font-size: 25px;
+}
+h2
+{
+    font-size: 24px;
+}
+h3
+{
+    font-size: 17px;
+}
+h4
+{
+    font-size: 19px;
+}
+h5
+{
+    font-size: 17px;
+}
+h6
+{
+    font-size: 15px;
+}
 
-h1, h2{
-  font-weight: normal;
-  color: #555;
-  text-align: center;
+h1, h2
+{
+    font-family: 'lucida grande' , tahoma, verdana;
+    font-weight: normal;
+    background-color: #018cc1;
+    text-align: center;
+    font-weight: normal;
+    color: #D8DFEA;
 }
 
 h3
 {
-  font-weight: normal;
-  color: #303030;
+    font-weight: normal;
+    color: #303030;
 }
 
-ol{list-style: decimal}
-ul{list-style: disc}
-li{margin-left: 30px}
-
-p,dl,hr,h1,h2,h3,h4,h5,
-h6,ol,ul,pre,table,address,
-fieldset,figure
+ol
 {
-  margin-bottom: 20px;
+    list-style: decimal;
+}
+ul
+{
+    list-style: disc;
+}
+li
+{
+    margin-left: 30px;
+}
+
+p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset, figure
+{
+    margin-bottom: 20px;
 }
 
 header nav ul
@@ -63,12 +92,13 @@ header nav ul
 
 header nav ul li
 {
-	padding-left: 10px;
+    padding-left: 10px;
     display: inline;
     margin: 0;
 }
 
-header nav ol li a{
+header nav ol li a
+{
     float: left;
     display: block;
     padding: 15px 35px 15px 0;
@@ -78,16 +108,13 @@ header nav ol li a{
     -webkit-transition-duration: .2s;
 }
 
-header nav ol li a:hover,header nav ol li a:selected
+header nav ol li a:hover, header nav ol li a:selected
 {
-	color: #207FCA;
+    color: #207FCA;
 }
 
 
-header,
-footer,
-nav,
-section 
+header, footer, nav, section
 {
     display: block;
 }
@@ -95,32 +122,32 @@ section
 /* Styles for basic forms
 -----------------------------------------------------------*/
 
-fieldset 
+fieldset
 {
-    border:1px solid #ddd;
-    padding:0 1.4em 1.4em 1.4em;
-    margin:0 0 1.5em 0;
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
 }
 
-legend 
+legend
 {
-    font-size:1.2em;
+    font-size: 1.2em;
     font-weight: bold;
 }
 
-textarea 
+textarea
 {
     min-height: 75px;
 }
 
-.editor-label 
+.editor-label
 {
     margin: 1em 0 0 0;
 }
 
-.editor-field 
+.editor-field
 {
-    margin:0.5em 0 0 0;
+    margin: 0.5em 0 0 0;
 }
 
 
@@ -159,7 +186,9 @@ textarea
     margin-left: auto;
     margin-right: auto;
     width: 800px;
-    background-color: blue;
+    border: 1px solid;
+    height: 650px;
+    background-color: #075e7f;
 }
 .input
 {
@@ -169,20 +198,21 @@ textarea
 }
 .add_input
 {
-    padding: 5px;
-    background-color: #4682B4;
-    color:  #FFFFFF;
+    padding: 4px;
+    background-color: #075e7f;
+    color: #FFFFFF;
     font-family: Calibri;
-    /*text-transform: uppercase;*/
     font-size: medium;
 }
 
 .text_input
-{    
-    width: 300px;
-    padding: 5px;        
+{
+    width: 450px;
+    padding: 5px;
+     
+    border-color:  #018cc1;
 }
 .text_input:focus
 {
-    background-color: #D3D3D3;        
+    background-color: #075e7f;
 }

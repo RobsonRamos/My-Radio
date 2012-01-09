@@ -14,41 +14,41 @@
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1007" fromTop="35" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="931" fromTop="18" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="398" fromTop="11" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2548" fromTop="19" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:RadioContext.cs" caret="82" fromTop="3" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="241" fromTop="11" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="186" fromTop="10" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2745" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2713" fromTop="18" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2713" fromTop="8" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2713" fromTop="13" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="784" fromTop="17" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1069" fromTop="30" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Infraestructure/f:NinjectDependencyResolver.cs" caret="890" fromTop="12" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Infraestructure/f:NinjectDependencyResolver.cs" caret="289" fromTop="12" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Infraestructure/f:NinjectDependencyResolver.cs" caret="602" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="271" fromTop="14" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="271" fromTop="23" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="271" fromTop="10" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="273" fromTop="14" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="273" fromTop="23" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="273" fromTop="10" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="73" fromTop="3" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2699" fromTop="35" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="576" fromTop="16" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="412" fromTop="8" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="8" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="409" fromTop="12" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="36" fromTop="2" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="228" fromTop="9" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="267" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="847" fromTop="23" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="917" fromTop="29" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="1248" fromTop="11" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="1310" fromTop="20" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2282" fromTop="19" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="9" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="15" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="23" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="29" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="11" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="20" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="931" fromTop="18" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2349" fromTop="20" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2577" fromTop="35" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2428" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2548" fromTop="19" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="241" fromTop="11" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="20" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="35" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="15" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="11" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="26" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="30" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="15" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="2" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="20" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="22" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="234" fromTop="6" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="806" fromTop="24" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="186" fromTop="10" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="31" fromTop="2" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2624" fromTop="31" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2884" fromTop="17" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
@@ -180,7 +180,7 @@
     <ItemStatistics item="CssCodeCompletionContext">
       <Item value="padding" priority="11" />
       <Item value="focus" priority="4" />
-      <Item value="background-color" priority="17" />
+      <Item value="background-color" priority="33" />
       <Item value="blue" priority="13" />
       <Item value="text-align" priority="11" />
       <Item value="center" priority="13" />
@@ -197,7 +197,7 @@
       <Item value="input" priority="4" />
       <Item value="left" priority="6" />
       <Item value="add_input" priority="4" />
-      <Item value="color" priority="5" />
+      <Item value="color" priority="11" />
       <Item value="font-family" priority="5" />
       <Item value="font-style" priority="5" />
       <Item value="text-transform" priority="5" />
@@ -205,6 +205,12 @@
       <Item value="font-size" priority="5" />
       <Item value="large" priority="4" />
       <Item value="medium" priority="6" />
+      <Item value="height" priority="11" />
+      <Item value="font-weight" priority="17" />
+      <Item value="lighter" priority="4" />
+      <Item value="normal" priority="6" />
+      <Item value="border" priority="11" />
+      <Item value="border-color" priority="9" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
