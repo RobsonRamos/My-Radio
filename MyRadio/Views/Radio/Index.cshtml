@@ -1,14 +1,23 @@
-﻿@model IQueryable<MyRadio.Models.Media>
+﻿@using System.Activities.Expressions
+@model IEnumerable<MyRadio.Models.Media>
 
 @{
     ViewBag.Title = "My Radio";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>My Radio</h1>
+    <h1>My Radio</h1>
 
-<div class="input">
-    <input type="text" class="text_input"/>
-    <input type="submit" value="ADD" class="add_input"/>
-</div>
+    <div class="input">      
+        Media:
+        <input type="text" id="text_input" />   
+        <input type="submit" value="+" title="Add to playlist" onclick="AddMedia()"/> 
+    </div>
 
+    <div id="playlist">
+        
+        @foreach (var media in Model)
+        {     
+            <p class="music">@media.Band - @media.Song</p>   
+        }    
+    </div>

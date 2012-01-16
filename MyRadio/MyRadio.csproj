@@ -66,6 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\RadioController.cs" />
+    <Compile Include="Domain\IUrlVideoParser.cs" />
+    <Compile Include="Domain\YoutubeVideoParser.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -80,6 +82,7 @@
     <Compile Include="Domain\Repositories\PlaylistRepository.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Images\Play_Icon.png" />
     <Content Include="Content\Reset.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -91,6 +94,7 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\modernizr-1.7.js" />
     <Content Include="Scripts\modernizr-1.7.min.js" />
+    <Content Include="Scripts\Site.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -1,54 +1,27 @@
 body
 {
     background-color: #FFFFFF;
-    font: 13px/1.5 'Helvetica Neue' ,Arial, 'Liberation Sans' ,FreeSans,sans-serif;
-    font-size: .85em;
-    font-family: "Trebuchet MS" , Verdana, Helvetica, Sans-Serif;
-    color: #D8DFEA;
+    font: 13px/1.5  "Trebuchet MS" , Verdana, Helvetica, Sans-Serif;
+    font-size: .85em;    
 }
 
-a
-{
-    color: #207FCA;
-}
+a{ color: #207FCA;}
 
-a:focus
-{
-    outline: 1px dotted;
-}
+a:focus{ outline: 1px dotted;}
 
-hr
-{
+hr{
     border: 0 #D9D9D9 solid;
     border-top-width: 1px;
     clear: both;
     height: 0;
 }
 
-h1
-{
-    font-size: 25px;
-}
-h2
-{
-    font-size: 24px;
-}
-h3
-{
-    font-size: 17px;
-}
-h4
-{
-    font-size: 19px;
-}
-h5
-{
-    font-size: 17px;
-}
-h6
-{
-    font-size: 15px;
-}
+h1{ font-size: 25px;}
+h2{ font-size: 24px;}
+h3{ font-size: 17px;}
+h4{ font-size: 19px;}
+h5{ font-size: 17px;}
+h6{ font-size: 15px;}
 
 h1, h2
 {
@@ -60,24 +33,14 @@ h1, h2
     color: #D8DFEA;
 }
 
-h3
-{
+h3{
     font-weight: normal;
     color: #303030;
 }
 
-ol
-{
-    list-style: decimal;
-}
-ul
-{
-    list-style: disc;
-}
-li
-{
-    margin-left: 30px;
-}
+ol{    list-style: decimal;}
+ul{    list-style: disc;}
+li{    margin-left: 30px;}
 
 p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset, figure
 {
@@ -185,16 +148,16 @@ textarea
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
-    border: 1px solid;
+    width: 1000px;
+    border: 1px solid #D8DFEA;;
     height: 650px;
-    background-color: #075e7f;
+    background-color: #FFFFFF;
 }
 .input
 {
-    position: relative;
     float: right;
     text-align: center;
+    padding-right: 10px;
 }
 .add_input
 {
@@ -205,14 +168,34 @@ textarea
     font-size: medium;
 }
 
-.text_input
+#text_input
 {
     width: 450px;
-    padding: 5px;
-     
-    border-color:  #018cc1;
+    padding: 5px;     
+    border: 1px solid #075e7f;
+    font-size: small;
+    font-family: ""Comic Sans";
 }
-.text_input:focus
+
+#playlist
 {
-    background-color: #075e7f;
+    position: fixed;
+    top: 0px; 
+    left: 0px;
+    width: 200px;
+    background-color: #D8DFEA;
+    color: #FFFFFF;    
+    clear: both;    
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+.music
+{
+    text-align: center;
+    padding: 10px;    
+}
+.music:hover
+{ 
+    background-color: #018cc1;
+    margin-right: 10px #D8DFEA;
 }

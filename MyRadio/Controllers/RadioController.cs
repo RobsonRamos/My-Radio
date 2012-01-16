@@ -11,7 +11,7 @@ namespace MyRadio.Controllers
     public class RadioController : Controller
     {
         private IMediaRepository repository;
-
+          
         public RadioController(IMediaRepository repository)
         {
             this.repository = repository;
@@ -19,24 +19,30 @@ namespace MyRadio.Controllers
 
         public ViewResult Index()
         {
-            return View(repository.Medias);
+            var medias = new List<Media>();
+            
+            medias.AddRange(new[]{ 
+                new Media{Band = "Iron Maiden", Song = "Fear of the Dark"},
+                new Media{Band = "Pink Floyd", Song = "The dark side of the moon"},
+                new Media{Band = "Metallica", Song = "Seek and Destroy"},
+                new Media{Band = "Led Zeppelin", Song = "Starway to Heaven"},
+                new Media{Band = "Deep Purple", Song = "Smoke on the Water"},
+            });
+            
+            return View(medias);
+        }
+        public JsonResult InsertMedia(string url)
+        {            
+            return Json("Complete",JsonRequestBehavior.AllowGet);
         }
 
-        public ViewResult Edit(int mediaId = 0)
-        {
-            var media = repository.Medias.FirstOrDefault(m => m.MediaId == mediaId);
-            return View(media);
-        }
-
-        [HttpPost]
-        public ActionResult Edit(Media media)
+        public ActionResult AddMedia(Media media)
         {
             if(ModelState.IsValid)
             {
-                repository.SaveMedia(media);
-                return RedirectToAction("Index");
+                repository.SaveMedia(media);                
             }
-            return View(media);
+            return Json(repository.Medias);
         }
     }
 }

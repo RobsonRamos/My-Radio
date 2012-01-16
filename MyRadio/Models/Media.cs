@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Web;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace MyRadio.Models
 {
@@ -12,6 +8,10 @@ namespace MyRadio.Models
         public int MediaId { get; set; }
 
         [Required(ErrorMessage = "The URL is required.")]
-        public string Url { get; set; }     
+        public string Url { get; set; }
+
+        public string Band { get; set; }
+
+        public string Song { get; set; }
     }
 }

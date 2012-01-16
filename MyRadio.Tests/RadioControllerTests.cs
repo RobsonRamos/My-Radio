@@ -61,7 +61,7 @@ namespace MyRadio.Tests
         [TestMethod]
         public void On_Adding_Media_Should_Call_Save_Method()
         {
-            target.Edit(new Media { MediaId = 10, Url = "Url" });
+            target.AddMedia(new Media { MediaId = 10, Url = "Url" });
 
             mockRepository.Verify(m => m.SaveMedia(It.IsAny<Media>()), Times.Once());
         }
@@ -70,7 +70,7 @@ namespace MyRadio.Tests
         public void Cannot_Save_Invalid_Media()
         {
             target.ModelState.AddModelError("Error", "Url is Required.");
-            target.Edit(new Media());
+            target.AddMedia(new Media());
 
             mockRepository.Verify(m => m.SaveMedia(It.IsAny<Media>()), Times.Never());
         }
@@ -81,7 +81,7 @@ namespace MyRadio.Tests
 
             var media = new Media();
             target.ModelState.AddModelError("Error", "Url is Required.");
-            var result = target.Edit(media);            
+            var result = target.AddMedia(media);            
 
             Assert.IsNotInstanceOfType(result, typeof(RedirectToRouteResult));
         }
@@ -89,7 +89,7 @@ namespace MyRadio.Tests
         [TestMethod]
         public void Can_Save_Valid_Media()
         {
-            target.Edit(new Media { MediaId = 10, Url = "Url" });
+            target.AddMedia(new Media { MediaId = 10, Url = "Url" });
 
             mockRepository.Verify(m => m.SaveMedia(It.IsAny<Media>()), Times.Once());
         }
@@ -97,7 +97,7 @@ namespace MyRadio.Tests
         [TestMethod]
         public void Valid_Media_Should_Return_Index_View()
         {
-            var result = target.Edit(new Media { MediaId = 10, Url = "Url" });
+            var result = target.AddMedia(new Media { MediaId = 10, Url = "Url" });
             Assert.IsInstanceOfType(result, typeof(RedirectToRouteResult));
         }
 

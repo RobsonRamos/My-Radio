@@ -2,84 +2,88 @@
   <RecentFiles>
     <RecentFiles>
       <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:UnitTest1.cs" caret="28" fromTop="1" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Playlist.cs" caret="166" fromTop="7" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Media.cs" caret="273" fromTop="13" />
-      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="229" fromTop="9" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:IMediaRepository.cs" caret="77" fromTop="3" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:IPlaylistRepository.cs" caret="78" fromTop="3" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:MediaRepository.cs" caret="70" fromTop="4" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:PlaylistRepository.cs" caret="74" fromTop="4" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Reset.css" caret="611" fromTop="23" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Infraestructure/f:NinjectDependencyResolver.cs" caret="602" fromTop="15" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/f:Global.asax.cs" caret="1007" fromTop="35" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="931" fromTop="18" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="398" fromTop="11" />
       <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:RadioContext.cs" caret="82" fromTop="3" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="186" fromTop="10" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2745" fromTop="8" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/f:IUrlVideoParser.cs" caret="198" fromTop="9" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:YoutubeVideoParserTests.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/f:YoutubeVideoParser.cs" caret="1094" fromTop="37" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Media.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:IMediaRepository.cs" caret="214" fromTop="9" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Domain/d:Repositories/f:MediaRepository.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Models/f:Playlist.cs" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Infraestructure/f:NinjectDependencyResolver.cs" caret="742" fromTop="22" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="3528" fromTop="29" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2685" fromTop="3" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="375" fromTop="13" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="552" fromTop="17" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="999" fromTop="17" />
     </RecentFiles>
     <RecentEdits>
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Infraestructure/f:NinjectDependencyResolver.cs" caret="602" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="273" fromTop="14" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="273" fromTop="23" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="273" fromTop="10" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="73" fromTop="3" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="8" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="409" fromTop="12" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="9" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="23" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="29" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="11" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="20" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="931" fromTop="18" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="20" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="35" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="11" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="26" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="30" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="15" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="2" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="20" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3006" fromTop="22" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="234" fromTop="6" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="806" fromTop="24" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="186" fromTop="10" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="31" fromTop="2" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2624" fromTop="31" />
-      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2884" fromTop="17" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="1040" fromTop="27" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="508" fromTop="18" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="56" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2963" fromTop="19" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="3121" fromTop="30" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Content/f:Site.css" caret="2675" fromTop="3" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="393" fromTop="7" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="774" fromTop="10" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="766" fromTop="7" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="1343" fromTop="21" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="2331" fromTop="21" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="2660" fromTop="21" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="3028" fromTop="21" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="3249" fromTop="21" />
+      <File id="F6FEF7FE-912F-4342-A62B-7B3906DDF636/f:RadioControllerTests.cs" caret="3528" fromTop="29" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="667" fromTop="17" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="667" fromTop="16" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="241" fromTop="13" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="391" fromTop="22" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="391" fromTop="19" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="1168" fromTop="24" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="393" fromTop="19" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Views/d:Radio/f:Index.cshtml" caret="375" fromTop="13" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="616" fromTop="11" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="616" fromTop="16" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="95" fromTop="1" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="605" fromTop="16" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Scripts/f:Site.js" caret="452" fromTop="14" />
+      <File id="84E6D1FC-8456-452A-B13D-8B8BADA7A475/d:Controllers/f:RadioController.cs" caret="1197" fromTop="23" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">
-      <Item value="public" priority="415" />
-      <Item value="string" priority="95" />
-      <Item value="Media`0" priority="159" />
+      <Item value="public" priority="479" />
+      <Item value="string" priority="159" />
+      <Item value="Media`0" priority="319" />
       <Item value="private" priority="63" />
       <Item value="this" priority="95" />
       <Item value="url" priority="31" />
-      <Item value="IList" priority="31" />
-      <Item value="void" priority="223" />
+      <Item value="IList" priority="64" />
+      <Item value="void" priority="255" />
       <Item value="Playlist`0" priority="127" />
-      <Item value="medias" priority="191" />
-      <Item value="new" priority="255" />
-      <Item value="List&lt;Media&gt;" priority="28" />
-      <Item value="var" priority="63" />
-      <Item value="Media" priority="87" />
+      <Item value="medias" priority="319" />
+      <Item value="new" priority="479" />
+      <Item value="List&lt;Media&gt;" priority="57" />
+      <Item value="var" priority="95" />
+      <Item value="Media" priority="116" />
       <Item value="mediaAdress" priority="31" />
-      <Item value="media" priority="159" />
-      <Item value="IEnumerable" priority="31" />
+      <Item value="media" priority="219" />
+      <Item value="IEnumerable" priority="127" />
       <Item value="Queue" priority="31" />
       <Item value="int" priority="286" />
       <Item value="m" priority="63" />
       <Item value="internal" priority="32" />
       <Item value="set" priority="98" />
-      <Item value="Url" priority="31" />
+      <Item value="Url" priority="91" />
       <Item value="value" priority="31" />
       <Item value="mediaId" priority="31" />
-      <Item value="if" priority="31" />
-      <Item value="null" priority="63" />
+      <Item value="if" priority="95" />
+      <Item value="null" priority="95" />
       <Item value="TestClass" priority="26" />
       <Item value="playlist" priority="32" />
       <Item value="Playlist" priority="28" />
@@ -88,7 +92,7 @@
       <Item value="TestInitialize" priority="31" />
       <Item value="mockMedias" priority="63" />
       <Item value="_AppDomain`0" priority="31" />
-      <Item value="IQueryable" priority="63" />
+      <Item value="IQueryable" priority="128" />
       <Item value="get" priority="32" />
       <Item value="Playlists" priority="32" />
       <Item value="partial" priority="31" />
@@ -101,9 +105,9 @@
       <Item value="RadioContext`0" priority="31" />
       <Item value="context" priority="128" />
       <Item value="RadioContext" priority="28" />
-      <Item value="return" priority="31" />
+      <Item value="return" priority="63" />
       <Item value="ErrorMessage" priority="31" />
-      <Item value="repository" priority="63" />
+      <Item value="repository" priority="127" />
       <Item value="Mock&lt;Repository&gt;" priority="28" />
       <Item value="r" priority="31" />
       <Item value="Delegate`0" priority="90" />
@@ -118,10 +122,53 @@
       <Item value="MediaRepository`0" priority="31" />
       <Item value="Views" priority="22" />
       <Item value="_Layout.cshtml" priority="22" />
+      <Item value="IUrlVideoParser`0" priority="31" />
+      <Item value="TestMethod" priority="31" />
+      <Item value="parser" priority="64" />
+      <Item value="YoutubeVideoParser" priority="28" />
+      <Item value="Console`0" priority="31" />
+      <Item value="result" priority="31" />
+      <Item value="line" priority="31" />
+      <Item value="bool" priority="31" />
+      <Item value="false" priority="63" />
+      <Item value="tagFound" priority="63" />
+      <Item value="true" priority="31" />
+      <Item value="Ajax" priority="91" />
+      <Item value="ajaxOptions" priority="58" />
+      <Item value="Html" priority="59" />
+      <Item value="Content" priority="45" />
+      <Item value="Images" priority="22" />
+      <Item value="Play_Icon.png" priority="45" />
+      <Item value="for" priority="29" />
+      <Item value="i" priority="29" />
+      <Item value="List" priority="63" />
+      <Item value="Band" priority="26" />
+      <Item value="Song" priority="32" />
+      <Item value="foreach" priority="26" />
+      <Item value="in" priority="31" />
+      <Item value="Model" priority="31" />
+      <Item value="as" priority="31" />
+      <Item value="Queryable`0" priority="31" />
+      <Item value="x" priority="31" />
+      <Item value="JsonResult`0" priority="63" />
+      <Item value="JsonResult" priority="28" />
+      <Item value="Json`0" priority="63" />
+      <Item value="Site.js" priority="22" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="AjaxOptions" priority="57" />
+      <Item value="Confirm" priority="58" />
+      <Item value="LoadingElementId" priority="93" />
+      <Item value="UpdateTargetId" priority="55" />
+      <Item value="OnBegin" priority="60" />
+      <Item value="InsertMedia" priority="32" />
+      <Item value="using" priority="29" />
+      <Item value="JsonRequestBehavior`0" priority="31" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MyRadio.Models.Media">
       <Item value="url" priority="53" />
-      <Item value="MediaId" priority="22" />
+      <Item value="MediaId" priority="49" />
+      <Item value="Band" priority="26" />
+      <Item value="Song" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
       <Item value="Add`0" priority="26" />
@@ -131,12 +178,17 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
       <Item value="First`1" priority="26" />
+      <Item value="Intersect`1" priority="22" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Moq.Mock`1">
       <Item value="Setup`0" priority="53" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
       <Item value="GetEnumerator`0" priority="26" />
+      <Item value="Add`0" priority="26" />
+      <Item value="Select`2" priority="53" />
+      <Item value="ToList`1" priority="26" />
+      <Item value="Where`1" priority="27" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
       <Item value="Returns`0" priority="53" />
@@ -168,49 +220,142 @@
     <ItemStatistics item="HtmlCodeCompletionContext">
       <Item value="embed" priority="5" />
       <Item value="name" priority="4" />
-      <Item value="class" priority="18" />
-      <Item value="div" priority="5" />
-      <Item value="id" priority="5" />
-      <Item value="input" priority="6" />
-      <Item value="type" priority="5" />
-      <Item value="submit" priority="5" />
-      <Item value="value" priority="5" />
+      <Item value="class" priority="24" />
+      <Item value="div" priority="17" />
+      <Item value="id" priority="30" />
+      <Item value="input" priority="12" />
+      <Item value="type" priority="11" />
+      <Item value="submit" priority="11" />
+      <Item value="value" priority="11" />
       <Item value="button" priority="4" />
+      <Item value="span" priority="5" />
+      <Item value="title" priority="5" />
+      <Item value="p" priority="11" />
+      <Item value="br" priority="11" />
+      <Item value="img" priority="12" />
+      <Item value="src" priority="11" />
+      <Item value="alt" priority="6" />
+      <Item value="onclick" priority="12" />
+      <Item value="addEventListener" priority="6" />
+      <Item value="addMedia" priority="4" />
+      <Item value="style" priority="11" />
+      <Item value="visibility" priority="15" />
+      <Item value="hidden" priority="4" />
+      <Item value="Index.cshtml" priority="5" />
+      <Item value="Content" priority="5" />
+      <Item value="Images" priority="5" />
+      <Item value="Play_Icon.png" priority="5" />
     </ItemStatistics>
     <ItemStatistics item="CssCodeCompletionContext">
       <Item value="padding" priority="11" />
       <Item value="focus" priority="4" />
-      <Item value="background-color" priority="33" />
-      <Item value="blue" priority="13" />
-      <Item value="text-align" priority="11" />
-      <Item value="center" priority="13" />
+      <Item value="background-color" priority="57" />
+      <Item value="blue" priority="18" />
+      <Item value="text-align" priority="17" />
+      <Item value="center" priority="20" />
       <Item value="content" priority="4" />
       <Item value="float" priority="11" />
       <Item value="right" priority="6" />
       <Item value="margin" priority="5" />
       <Item value="auto" priority="6" />
-      <Item value="width" priority="11" />
-      <Item value="position" priority="11" />
-      <Item value="absolute" priority="11" />
-      <Item value="fixed" priority="9" />
-      <Item value="relative" priority="9" />
+      <Item value="width" priority="17" />
+      <Item value="position" priority="23" />
+      <Item value="absolute" priority="23" />
+      <Item value="fixed" priority="19" />
+      <Item value="relative" priority="14" />
       <Item value="input" priority="4" />
-      <Item value="left" priority="6" />
+      <Item value="left" priority="12" />
       <Item value="add_input" priority="4" />
-      <Item value="color" priority="11" />
-      <Item value="font-family" priority="5" />
-      <Item value="font-style" priority="5" />
+      <Item value="color" priority="17" />
+      <Item value="font-family" priority="9" />
+      <Item value="font-style" priority="11" />
       <Item value="text-transform" priority="5" />
       <Item value="uppercase" priority="4" />
-      <Item value="font-size" priority="5" />
+      <Item value="font-size" priority="11" />
       <Item value="large" priority="4" />
-      <Item value="medium" priority="6" />
+      <Item value="medium" priority="11" />
       <Item value="height" priority="11" />
-      <Item value="font-weight" priority="17" />
+      <Item value="font-weight" priority="23" />
       <Item value="lighter" priority="4" />
       <Item value="normal" priority="6" />
       <Item value="border" priority="11" />
       <Item value="border-color" priority="9" />
+      <Item value="padding-left" priority="11" />
+      <Item value="small" priority="4" />
+      <Item value="font-variant" priority="5" />
+      <Item value="fantasy" priority="4" />
+      <Item value="playlist" priority="5" />
+      <Item value="clear" priority="11" />
+      <Item value="both" priority="11" />
+      <Item value="static" priority="4" />
+      <Item value="gray" priority="4" />
+      <Item value="bold" priority="4" />
+      <Item value="top" priority="5" />
+      <Item value="music" priority="9" />
+      <Item value="padding-bottom" priority="5" />
+      <Item value="padding-top" priority="9" />
+      <Item value="margin-top" priority="5" />
+      <Item value="margin-right" priority="5" />
+      <Item value="visibility" priority="1" />
+      <Item value="hidden" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRadio.Domain.YoutubeVideoParser">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="Ajax" priority="15" />
+      <Item value="Html" priority="15" />
+      <Item value="Url" priority="17" />
+      <Item value="for" priority="7" />
+      <Item value="i" priority="7" />
+      <Item value="foreach" priority="5" />
+      <Item value="media" priority="17" />
+      <Item value="using" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.AjaxHelper`1">
+      <Item value="ActionLink`0" priority="26" />
+      <Item value="BeginForm`0" priority="76" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Content`0" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRadio.Domain.Repositories.IMediaRepository">
+      <Item value="Equals`0" priority="26" />
+      <Item value="Medias" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="function" priority="10" />
+      <Item value="document" priority="10" />
+      <Item value="addEventListener" priority="5" />
+      <Item value="addMedia" priority="4" />
+      <Item value="hidden" priority="7" />
+      <Item value="fun" priority="10" />
+      <Item value="CreateAjaxCall" priority="10" />
+      <Item value="true" priority="21" />
+      <Item value="var" priority="21" />
+      <Item value="alert" priority="10" />
+      <Item value="jsonData" priority="10" />
+      <Item value="UpdatePlaylist" priority="10" />
+      <Item value="XmlHttpRequest" priority="10" />
+      <Item value="callback" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="getElementById" priority="8" />
+      <Item value="textContent" priority="8" />
+      <Item value="attributes" priority="8" />
+      <Item value="visibility" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRadio.Controllers.RadioController">
+      <Item value="AddMedia`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.JsonRequestBehavior">
+      <Item value="AllowGet" priority="26" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>
@@ -235,6 +380,8 @@
       <Name>Session #1</Name>
       <Elements>
         <UnitTestElement Provider="MSTest" Id="MyRadio.Tests.RadioControllerTests" type="MsTestTestClassElement" TypeName="MyRadio.Tests.RadioControllerTests" Project="F6FEF7FE-912F-4342-A62B-7B3906DDF636" />
+        <UnitTestElement Provider="MSTest" Id="MyRadio.Tests.YoutubeVideoParserTests" type="MsTestTestClassElement" TypeName="MyRadio.Tests.YoutubeVideoParserTests" Project="F6FEF7FE-912F-4342-A62B-7B3906DDF636" />
+        <UnitTestElement Provider="MSTest" Id="MyRadio.Tests.YoutubeVideoParserTests.Can_Parse_Youtube_Video" ParentId="MyRadio.Tests.YoutubeVideoParserTests" type="MsTestTestMethodElement" MethodName="Can_Parse_Youtube_Video" Project="F6FEF7FE-912F-4342-A62B-7B3906DDF636" />
         <UnitTestElement Provider="MSTest" Id="MyRadio.Tests.RadioControllerTests.Can_Save_Valid_Media" ParentId="MyRadio.Tests.RadioControllerTests" type="MsTestTestMethodElement" MethodName="Can_Save_Valid_Media" Project="F6FEF7FE-912F-4342-A62B-7B3906DDF636" />
         <UnitTestElement Provider="MSTest" Id="MyRadio.Tests.RadioControllerTests.Cannot_Save_Invalid_Media" ParentId="MyRadio.Tests.RadioControllerTests" type="MsTestTestMethodElement" MethodName="Cannot_Save_Invalid_Media" Project="F6FEF7FE-912F-4342-A62B-7B3906DDF636" />
         <UnitTestElement Provider="MSTest" Id="MyRadio.Tests.RadioControllerTests.Index_Returns_The_First_Media_In_Order" ParentId="MyRadio.Tests.RadioControllerTests" type="MsTestTestMethodElement" MethodName="Index_Returns_The_First_Media_In_Order" Project="F6FEF7FE-912F-4342-A62B-7B3906DDF636" />
