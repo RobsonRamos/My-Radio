@@ -95,10 +95,24 @@ namespace MyRadio.Tests
         }
 
         [TestMethod]
-        public void Valid_Media_Should_Return_Index_View()
+        public void Valid_Media_Should_Return_A_Json_Result()
         {
             var result = target.AddMedia(new Media { MediaId = 10, Url = "Url" });
-            Assert.IsInstanceOfType(result, typeof(RedirectToRouteResult));
+            Assert.IsInstanceOfType(result, typeof(JsonResult));
+        }
+
+        [TestMethod]
+        public void On_Insert_Media_Should_Call_Save_Method()
+        {
+            target.InsertMedia("http://xxxx");
+            mockRepository.Verify( m=> m.SaveMedia(It.IsAny<Media>()),Times.Once());
+        }
+
+        [TestMethod]
+        public void Invalid_Media_Cannot_Call_Save_Method()
+        {
+            target.InsertMedia(string.Empty);
+            mockRepository.Verify(m => m.SaveMedia(It.IsAny<Media>()), Times.Never());
         }
 
     }

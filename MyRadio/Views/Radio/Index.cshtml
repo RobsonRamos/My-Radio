@@ -8,10 +8,16 @@
 
     <h1>My Radio</h1>
 
-    <div class="input">      
-        Media:
-        <input type="text" id="text_input" />   
-        <input type="submit" value="+" title="Add to playlist" onclick="AddMedia()"/> 
+    <div class="input">   
+        <div id="input_data">
+            Media:
+            <input type="text" id="text_input" />   
+            <input type="submit" value="+" title="Add to playlist" onclick="AddMedia()"/> 
+        </div>   
+        <div id="Loading">            
+            <img src="@Url.Content("~/Content/Images/Ajax-Loader.gif")"/>    
+            <p>Wait...</p>
+        </div>
     </div>
 
     <div id="playlist">

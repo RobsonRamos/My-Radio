@@ -82,6 +82,7 @@
     <Compile Include="Domain\Repositories\PlaylistRepository.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Images\Ajax-Loader.gif" />
     <Content Include="Content\Images\Play_Icon.png" />
     <Content Include="Content\Reset.css" />
     <Content Include="Global.asax" />
